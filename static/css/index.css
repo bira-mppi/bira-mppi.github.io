@@ -291,11 +291,7 @@ caption {
 
 th,td {
   padding:11px 12px;
-  text-align:right;
-}
-
-th:first-child,th[scope="row"] {
-  text-align:left;
+  text-align:center;
 }
 
 thead {
